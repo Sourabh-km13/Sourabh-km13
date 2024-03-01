@@ -3,7 +3,7 @@
 - 🌱 I’m currently a 1st year student
 - 💞️ I’m looking to learn 
 - 📫 How to reach me -lordgk02@gmail.com
-
+- 📑 Learnig web development
 
 <!---
 Sourabh-km13/Sourabh-km13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
