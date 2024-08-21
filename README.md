@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourabh-km13
 - 👀 I’m interested in web developement,chess,basketball
-- 🌱 I’m currently a 1st year student
+- 🌱 I’m currently a 2nd year student
 - 💞️ I’m looking to learn 
 - 📫 How to reach me -lordgk02@gmail.com
 - 📑 Learnig web development
