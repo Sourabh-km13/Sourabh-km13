@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Web developert<br>👯 I’m looking to collaborate <br>🌱 I’m currently learning NodeJs and backend services<br>⚡ play chess 
+🔭 I'm a Software Developer skilled in Frontend developement<br>👯 I’m looking to collaborate <br>🌱 I’m currently learning NodeJs and backend services<br>⚡ play chess 
 
 
 ## 🌐 Socials:
