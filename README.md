@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Software Developer skilled in Frontend developement<br>👯 I’m looking to collaborate <br>🌱 I’m currently learning NodeJs and backend services<br>⚡ [![Play chess]]
+🔭 I'm a Software Developer skilled in Frontend developement<br>👯 I’m looking to collaborate <br>🌱 I’m currently learning NodeJs and backend services<br>⚡ [Play chess](https://www.chess.com/member/sourabh-134)
 
 
 ## 🌐 Socials:
